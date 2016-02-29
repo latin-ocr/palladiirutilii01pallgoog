@@ -1,0 +1,39 @@
+NOTAE.
+
+L = codex Laudunensis 426 bis, saec. IX.
+
+P = codex Parisinus 6842 B, saec. X.
+
+Q= codex Parisinus 5830 D, saec. X.
+
+G = codex Lugdunensis 102, saec. X.
+
+V = codex Vindobonensis 148, saec. X.
+
+S = codex Parisinus 6830 Ε, saec. XI.
+
+Τ = codex Parisinus 5830 F, saec. XIII. ·
+
+F = codex Florentinus sive Laurentianus 47, 33, saec. XIII.
+E = codex Eriirrtensis sive Amplonianus 15, saec. XIV.
+
+H = codex Vaticanus 5245, saec. XV.
+
+A = codex vindobonensis 3198, saec. XV.¹
+D :codex Laurentianus 53, 15, saec. XV.
+0 = codex Laurentianus 47, 34, saec. XV.
+Β = codex vindobonensis 4772, saec. XVI.
+
+p = lectiones Pontiani, 1480-1494.
+c‘ = editio Iensoniana, 1482.
+
+a :editio Aldina, 1514.
+
+o = editio Commeliniana 1595.
+
+9 :editio Gesneriana‚ 1774.
+
+s = edicio Schneideriana 1795.
+
+ 
+
